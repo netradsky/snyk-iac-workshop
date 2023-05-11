@@ -17,7 +17,7 @@
       "Type": "String",
       "MinLength": 9,
       "MaxLength": 18,
-      "Default": "0.0.0.0/0"
+      "Default": "192.16.0.0/24"
     },
     "ELBIngressPort": {
       "Description": "The ELB ingress port used by security groups",
